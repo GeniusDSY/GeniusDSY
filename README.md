@@ -12,12 +12,12 @@ I'm a Web Back-end development engineer. Thank you for following me.
 
 📫 How to reach me:cqupt.dengsiyuan@gamil.com
 
-<img
+<img align="left"
   alt="Top Langs"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniusdsy"
 />
 
-<p align="center">
+<p align="right">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/GeniusDSY/count.svg" />
 </p>
