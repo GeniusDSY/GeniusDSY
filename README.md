@@ -18,7 +18,7 @@ I'm a Web Back-end development engineer. Thank you for following me.
 />
 
 <p align="right">
-  Visitor count<br>
+  <p align="center" style="font-size: 30px">Visitor count<br>
   <img width="400px" height="60px" src="https://profile-counter.glitch.me/GeniusDSY/count.svg" />
 </p>
 
