@@ -17,6 +17,11 @@ I'm a Web Back-end development engineer. Thank you for following me.
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniusdsy"
 />
 
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/GeniusDSY/count.svg" />
+</p>
+
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
