@@ -14,7 +14,7 @@ I'm a Web Back-end development engineer. Thank you for following me.
 
 <img align="left"
   alt="Top Langs"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniusdsy"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeniusDSY"
 />
 
 <p align="right">
