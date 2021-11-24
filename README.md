@@ -10,7 +10,7 @@ I'm a Web Back-end development engineer. Thank you for following me.
 
 🏠 I am currently in Hangzhou, Zhejiang, China.
 
-📫 How to reach me:cqupt.dengsiyuan@gamil.com
+📫 How to reach me:cqupt.dengsiyuan@gmail.com
 
 <img align="left"
   alt="Top Langs"
